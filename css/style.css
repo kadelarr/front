@@ -1,0 +1,19 @@
+.nombre{
+    color: red;
+}
+
+input {
+    display: block;
+    margin: 10px;
+    width: 100%;
+}
+
+form {
+    text-align: center !important;
+    width: 50%;
+    /* display: block; */
+}
+
+body {
+    width: 100%;
+}
